@@ -1,4 +1,4 @@
-# covid
+# Covid-19 Tracker App
 
 A new Flutter project.
 
